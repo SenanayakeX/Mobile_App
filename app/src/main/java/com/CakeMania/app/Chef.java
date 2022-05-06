@@ -70,3 +70,5 @@ public class Chef {
         return Suburban;
     }
 }
+
+//chef registration details updated
