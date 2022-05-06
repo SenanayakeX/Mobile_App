@@ -103,3 +103,5 @@ public class Customer {
         LocalAddress = localAddress;
     }
 }
+
+//customer registration function added
