@@ -95,7 +95,7 @@ public class Customer {
         Suburban = suburban;
     }
 
-     String getLocalAddress() {
+    public String getLocalAddress() {
         return LocalAddress;
     }
 
