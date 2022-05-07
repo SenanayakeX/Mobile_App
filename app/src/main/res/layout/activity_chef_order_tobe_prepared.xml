@@ -5,8 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.CakeMania.app.ChefFoodPanel.ChefOrderTobePrepared">
-
     <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+
         android:id="@+id/Swipe1"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -15,7 +15,7 @@
         android:id="@+id/Recycle_orderstobeprepared"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:scrollbars="vertical" />
+        android:scrollbars="horizontal" />
     </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
 
 </RelativeLayout>
