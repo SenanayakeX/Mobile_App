@@ -27,15 +27,15 @@ public class Customer {
         return City;
     }
 
-    public void setCity(String city) {
+     void setCity(String city) {
         City = city;
     }
 
-    public String getConfirmPassword() {
+     String getConfirmPassword() {
         return ConfirmPassword;
     }
 
-    public void setConfirmPassword(String confirmPassword) {
+     void setConfirmPassword(String confirmPassword) {
         ConfirmPassword = confirmPassword;
     }
 
