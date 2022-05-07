@@ -23,19 +23,19 @@ public class Customer {
         LocalAddress=localAddress;
     }
 
-     String getCity() {
+    public  String getCity() {
         return City;
     }
 
-     void setCity(String city) {
+    public void setCity(String city) {
         City = city;
     }
 
-     String getConfirmPassword() {
+    public String getConfirmPassword() {
         return ConfirmPassword;
     }
 
-     void setConfirmPassword(String confirmPassword) {
+    public void setConfirmPassword(String confirmPassword) {
         ConfirmPassword = confirmPassword;
     }
 
