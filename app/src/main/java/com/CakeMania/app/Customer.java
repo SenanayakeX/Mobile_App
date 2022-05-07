@@ -23,7 +23,7 @@ public class Customer {
         LocalAddress=localAddress;
     }
 
-    public String getCity() {
+     String getCity() {
         return City;
     }
 
