@@ -63,7 +63,7 @@
                             android:layout_gravity="bottom"
                             app:backgroundDrawable="@drawable/elegant_btnshape"
                             android:layout_marginRight="15dp"
-                            app:backGroundColor="#b5838d" />
+                            app:backGroundColor="#9C27B0" />
                     </LinearLayout>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
