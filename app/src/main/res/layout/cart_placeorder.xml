@@ -72,7 +72,7 @@
                 android:layout_marginRight="10dp"
                 android:gravity="end"
                 android:text="x 3"
-                android:textSize="18sp" />
+                android:textSize="19sp" />
         </LinearLayout>
 
         <TextView
