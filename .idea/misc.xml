@@ -164,6 +164,14 @@
         <entry key="..\:/Users/pasin/AndroidStudioProjects/Mobile_App/app/src/main/res/layout/activity_sendotp.xml" value="0.1" />
         <entry key="..\:/Users/pasin/AndroidStudioProjects/Mobile_App/app/src/main/res/layout/activity_update__delete__dish.xml" value="0.1" />
         <entry key="..\:/Users/pasin/AndroidStudioProjects/Mobile_App/app/src/main/res/layout/activity_verify_phone.xml" value="0.1" />
+        <entry key="..\:/Users/pasin/AndroidStudioProjects/Mobile_App/app/src/main/res/layout/cart_placeorder.xml" value="0.1" />
+        <entry key="..\:/Users/pasin/AndroidStudioProjects/Mobile_App/app/src/main/res/layout/chef_finalorder.xml" value="0.1" />
+        <entry key="..\:/Users/pasin/AndroidStudioProjects/Mobile_App/app/src/main/res/layout/chef_menu_update_delete.xml" value="0.1" />
+        <entry key="..\:/Users/pasin/AndroidStudioProjects/Mobile_App/app/src/main/res/layout/chef_order_dishes.xml" value="0.1" />
+        <entry key="..\:/Users/pasin/AndroidStudioProjects/Mobile_App/app/src/main/res/layout/chef_orders.xml" value="0.1" />
+        <entry key="..\:/Users/pasin/AndroidStudioProjects/Mobile_App/app/src/main/res/layout/chef_ordertobeprepared.xml" value="0.1" />
+        <entry key="..\:/Users/pasin/AndroidStudioProjects/Mobile_App/app/src/main/res/layout/chef_ordertobeprepared_view.xml" value="0.1" />
+        <entry key="..\:/Users/pasin/AndroidStudioProjects/Mobile_App/app/src/main/res/layout/chef_preparedorder.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/btnblue.xml" value="0.3260416666666667" />
         <entry key="app/src/main/res/drawable/btnblueish.xml" value="0.3260416666666667" />
         <entry key="app/src/main/res/drawable/btnred.xml" value="0.2140625" />
