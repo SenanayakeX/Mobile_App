@@ -139,7 +139,7 @@
             android:background="@drawable/btnred"
             android:padding="10dp"
             android:text="Update"
-            android:textColor="@color/white" />
+            android:textColor="@color/black" />
 
         <Button
             android:id="@+id/Deletedish"
@@ -151,7 +151,7 @@
             android:drawablePadding="5dp"
             android:padding="10dp"
             android:text="Delete"
-            android:textColor="@color/white" />
+            android:textColor="@color/black" />
 
     </LinearLayout>
 
