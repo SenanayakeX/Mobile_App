@@ -133,7 +133,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/btnpink"
         android:text="ADD"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

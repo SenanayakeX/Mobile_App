@@ -47,7 +47,7 @@
             android:background="@drawable/btnred"
             android:fontFamily="@font/abeezee"
             android:text="I AM A CUSTOMER"
-            android:textColor="@color/white" />
+            android:textColor="@color/black" />
 
         <Button
             android:id="@+id/chef"
@@ -58,7 +58,7 @@
             android:background="@drawable/btnpink"
             android:fontFamily="@font/abeezee"
             android:text="I AM A CAKE CHEF"
-            android:textColor="@color/white" />
+            android:textColor="@color/black" />
 
 
     </LinearLayout>
