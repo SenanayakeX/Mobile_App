@@ -41,7 +41,7 @@
                 <com.cepheuen.elegantnumberbutton.view.ElegantNumberButton
                     android:id="@+id/elegantbtn"
                     android:layout_width="75dp"
-                  android:layout_marginRight="10dp"
+                    android:layout_marginRight="10dp"
                     app:backgroundDrawable="@drawable/elegant_btnshape"
                     android:layout_height="25dp"
                     android:layout_gravity="bottom"
@@ -72,7 +72,7 @@
                 android:layout_marginRight="10dp"
                 android:gravity="end"
                 android:text="x 3"
-                android:textSize="19sp" />
+                android:textSize="18sp" />
         </LinearLayout>
 
         <TextView
